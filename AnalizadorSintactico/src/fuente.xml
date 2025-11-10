@@ -1,0 +1,39 @@
+<object>
+    <string>personas</string>
+    <array>
+        <object>
+            <string>ci</string>
+            <number>1234567</number>
+            <string>nombre</string>
+            <string>Julio Pérez</string>
+            <string>casado</string>
+            <boolean>false</boolean>
+            <string>hijos</string>
+            <array>
+            </array>
+        </object>
+        <object>
+            <string>ci</string>
+            <number>7654321</number>
+            <string>nombre</string>
+            <string>Juan Gómez</string>
+            <string>casado</string>
+            <boolean>true</boolean>
+            <string>hijos</string>
+            <array>
+                <object>
+                    <string>nombre</string>
+                    <string>Jorge</string>
+                    <string>edad</string>
+                    <number>18</number>
+                </object>
+                <object>
+                    <string>nombre</string>
+                    <string>Valeria</string>
+                    <string>edad</string>
+                    <number>16</number>
+                </object>
+            </array>
+        </object>
+    </array>
+</object>
